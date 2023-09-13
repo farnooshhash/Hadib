@@ -1,2 +1,2 @@
 # Hadib
-In orer to run the code you need to 
+In orer to run the code you need to install python 
